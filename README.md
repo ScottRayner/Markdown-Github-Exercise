@@ -11,3 +11,4 @@ https://engl460.slack.com/
 2. It's better than Google Drive
 3. GitHub is cool, too
 
+![](github-collab-retina-preview.gif)
